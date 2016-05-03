@@ -1,0 +1,2 @@
+- Salvare su file gli oggetti città serializzati;
+- Caricare da file gli oggetti città salvati;
